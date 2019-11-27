@@ -1,0 +1,5 @@
+export declare enum PaymentTypes {
+    BOLETO = "BOLETO",
+    CREDIT_CARD = "CREDIT_CARD",
+    INSTALLMENT_CREDIT_CARD = "INSTALLMENT_CREDIT_CARD"
+}
